@@ -1,5 +1,6 @@
 # -------------------- Installs (uncomment if first run) --------------------
-# !pip install wfdb tensorflow scikit-learn matplotlib pandas -q
+!pip install wfdb neurokit2
+!pip install wfdb tensorflow scikit-learn matplotlib pandas -q
 
 import os
 import random
@@ -313,4 +314,5 @@ plt.title('Confusion Matrix')
 plt.show()
 
 print(f'✅ Best model saved to {MODEL_SAVE_PATH}')
+
 print('Done.')
