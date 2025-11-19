@@ -1,2 +1,2 @@
 # DASHBOARD LINK
-https://defe01b1ee7562d32d.gradio.live/
+https://645522c5b482a74ed1.gradio.live/
